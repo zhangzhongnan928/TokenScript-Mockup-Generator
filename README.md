@@ -5,7 +5,7 @@ https://tokenscriptmockupgenerator.tiiny.site/
 
 ## Introduction
 
-The TokenScript Mockup Generator is a web-based tool that allows you to create TokenScript mockups for ERC20 and NFT tokens. It also provides functionality to register your TokenScript with an ERC-7738 contract.
+The TokenScript Mockup Generator is a web-based tool that allows you to create TokenScript mockups for ERC20 and NFT tokens. It also provides functionality to register your TokenScript with an ERC-7738 contract(in V2).
 
 ## Getting Started
 
