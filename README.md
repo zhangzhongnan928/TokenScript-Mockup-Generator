@@ -1,4 +1,4 @@
-# TokenScript-Mockup-Generator
+# TokenScript-Mockup-Generator V1
 https://tokenscriptmockupgenerator.tiiny.site/
 
 # TokenScript Mockup Generator User Manual
@@ -10,7 +10,7 @@ The TokenScript Mockup Generator is a web-based tool that allows you to create T
 ## Getting Started
 
 1. Open the TokenScript Mockup Generator in your web browser.
-2. Ensure you have MetaMask or a similar Web3 wallet extension installed in your browser.
+2. Ensure you have MetaMask or a similar Web3 wallet extension installed in your browser(in V2).
 
 ## Generating a TokenScript Mockup
 
@@ -29,13 +29,13 @@ The TokenScript Mockup Generator is a web-based tool that allows you to create T
 4. If all required fields are filled, a TokenScript mockup will be generated and displayed on the page.
 5. A "Download .tsml File" link will appear. Click this link to download the generated TokenScript file.
 
-## Connecting Your Wallet
+## Connecting Your Wallet(in V2)
 
 1. Click the "Connect Wallet" button.
 2. Your Web3 wallet (e.g., MetaMask) will prompt you to connect. Follow the wallet's instructions to connect.
 3. Once connected, your wallet address will be displayed, and the "Register Script URI" button will be enabled.
 
-## Registering Your TokenScript
+## Registering Your TokenScript(in V2)
 
 1. After generating your TokenScript and connecting your wallet, host the .tsml file on a web server of your choice.
 2. Enter the URL where you've hosted your .tsml file in the "TokenScript URI" input field.
@@ -46,7 +46,7 @@ The TokenScript Mockup Generator is a web-based tool that allows you to create T
 ## Tips and Troubleshooting
 
 - Ensure all required fields are filled before generating the TokenScript.
-- Make sure your Web3 wallet is connected to the correct network before registering the TokenScript.
+- Make sure your Web3 wallet is connected to the correct network before registering the TokenScript.(in V2)
 - If you encounter any errors, check the error message displayed on the page for guidance.
 - Always verify the contract address and TokenScript URI before submitting the registration transaction.
 
@@ -54,4 +54,3 @@ The TokenScript Mockup Generator is a web-based tool that allows you to create T
 
 - Never share your private keys or wallet seed phrases.
 - Always verify transaction details in your Web3 wallet before confirming.
-- Ensure you're using the correct contract address for the ERC-7738 registry.
